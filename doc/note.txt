@@ -1,0 +1,2 @@
+What is purpose of the id attribute of lable tag:
+https://stackoverflow.com/questions/24652687/why-should-you-use-the-label-tag-and-for-attribute
